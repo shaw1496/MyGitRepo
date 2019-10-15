@@ -2,7 +2,7 @@ This is my complete java application file...Hello Git...!!!
 
 class HelloGit{
 	
-main(){
+psv main(String args[]){
 sysout("");
 }
 
