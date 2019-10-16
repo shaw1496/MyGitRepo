@@ -1,8 +1,10 @@
 This is my complete java application file...Hello Git...!!!
 
 class HelloGit{
-	
-psv main(String args[]){
+	void myMethod(){
+		sysout("myMethod");
+	}
+public static void main(String args[]){
 
 System.out.println("NoGit!git!");
 
